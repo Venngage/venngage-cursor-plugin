@@ -1,0 +1,19 @@
+{
+  "name": "venngage",
+  "version": "1.0.0",
+  "description": "Turn your data, notes and documents into professional, fully editable infographics, brochures, reports and more. No design skills needed.",
+  "author": {
+    "name": "Venngage",
+    "email": "info@venngage.com"
+  },
+  "homepage": "https://venngage.com",
+  "repository": "https://github.com/YOUR-ORG/venngage-cursor-plugin",
+  "keywords": [
+    "design",
+    "infographics",
+    "brochures",
+    "reports",
+    "data visualization"
+  ],
+  "logo": "assets/logo.svg"
+}
